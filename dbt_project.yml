@@ -5,6 +5,9 @@
 name: 'ecommerce_dbt'
 version: '1.0.0'
 
+dbt-cloud:
+    project-id: 70403103953012
+
 # This setting configures which "profile" dbt uses for this project.
 profile: 'ecommerce_dbt'
 
